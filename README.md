@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sturmlocke86
+- 👀 I’m interested in Linux, Ubuntu, OpenSuse, Fedora, Proton, Steam, Wine, Codeweavers, and more
+- 🌱 I’m currently working for a  multinational technology company
+- 💞️ I’m looking to test and provide simple user feedback to stuff I use on Linux (ProtonGE for example)
+- 📫 How to reach me: telepathically
